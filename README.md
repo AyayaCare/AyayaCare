@@ -1,12 +1,15 @@
 <div align="center">
 <h1 align="center">Morning</h1>
 </div>
-<img src="[https://i.imgur.com/weNbhGZ.png](https://i.postimg.cc/50p7jxsx/dark.jpg)">
+<img src="https://i.imgur.com/weNbhGZ.png](https://i.postimg.cc/50p7jxsx/dark.jpg" alt = "Kat Elements">
 
 
 
 ![Lenguage](https://img.shields.io/badge/Java-orange
 )
+![Lenguage](https://img.shields.io/badge/C%2B%2B-blue?style=flat-square&logo=cplusplus)
+![Lenguage](https://img.shields.io/badge/Python-blue?style=flat-square&logo=python)
+![database](https://img.shields.io/badge/SQL-yellow?style=flat-square&logo=mysql)
 
 ## About Me
  
