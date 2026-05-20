@@ -1,7 +1,7 @@
 <div align="center">
-<h1 align="center">✨Morning✨</h1>
+<h1 align="center">Systems Engineering Student</h1>
 </div>
-<img src="https://i.postimg.cc/tTkTx88d/monika.jpg" alt = "Kat Elements">
+<img src="[https://i.postimg.cc/tTkTx88d/monika.jpg](https://i.postimg.cc/mkHGmPDL/Whats-App-Image-2026-05-20-at-6-17-34-PM.jpg)" alt = "Kat Elements">
 
 
 
@@ -16,10 +16,7 @@
 - ☕ Backend Developer
 - ✏️ Always learning
 - 🎓 Future engineer
-<!--
-**AyayaCare/AyayaCare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
