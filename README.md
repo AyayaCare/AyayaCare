@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Systems Engineering Student</h1>
 </div>
-<img src="[https://i.postimg.cc/mkHGmPDL/Whats-App-Image-2026-05-20-at-6-17-34-PM.jpg]" alt = "Kat Elements">
+<img src="https://i.postimg.cc/mkHGmPDL/Whats-App-Image-2026-05-20-at-6-17-34-PM.jpg" alt = "Kat Elements">
 
 
 
